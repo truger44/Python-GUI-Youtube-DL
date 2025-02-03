@@ -18,7 +18,7 @@
 ### Requirements
 
 - Python **2.6, 2.7, or 3.2+**
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) included
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 - **Windows** (preferred) or **Linux**
 
 ### Setup
